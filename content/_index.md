@@ -108,8 +108,7 @@ sections:
       columns: '2'
       view: showcase
 
-
-- block: markdown
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
