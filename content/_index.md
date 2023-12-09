@@ -28,17 +28,17 @@ sections:
         - title: Alberto Maspero
           company: PI
           company_url: '/workspaces/gundham/assets/media/icon.png'
-          #company_logo: org-gc
-          #location: California
-          #date_start: '2021-01-01'
-          #date_end: ''
+          company_logo: 
+          location: 
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Xavier is an ICREA Research Professor at the University of Barcelona since 2020. Previously, he has been Assistant Professor at Universität Zürich, as well as R. H. Bing Instructor at the University of Texas at Austin. He is a mathematician who works on Partial Differential Equations (PDEs). 
         - title: Pinco Pallo
           company: Postdoc
           company_url: ''
-          #company_logo: org-x
-          #location: California
+          company_logo:
+          location: 
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: |2-
