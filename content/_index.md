@@ -27,13 +27,13 @@ sections:
       items:
         - title: Alberto Maspero
           company: PI
-          company_url: '/workspaces/gundham/assets/media/icon.png'
-          company_logo: 
+          company_url: 'https://people.sissa.it/~amaspero/'
+          company_logo: '/workspaces/gundham/assets/media/icon.png'
           location: 
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Xavier is an ICREA Research Professor at the University of Barcelona since 2020. Previously, he has been Assistant Professor at Universität Zürich, as well as R. H. Bing Instructor at the University of Texas at Austin. He is a mathematician who works on Partial Differential Equations (PDEs). 
+              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been Assistant Professor at SISSA, as well as R. H. Bing Instructor at the University of Texas at Austin. He is a mathematician who works on Partial Differential Equations (PDEs). 
         - title: Pinco Pallo
           company: Postdoc
           company_url: ''
@@ -75,10 +75,23 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
+
+
+  - block: markdown
+    id: host
+    content:
+      title: Host institution
+      text: SISSA is the best institute in Italy
+    design:
+      columns: '2'
+      view: showcase
+
+
+
   - block: collection
     id: featured
     content:
-      title: Recent Publications
+      title: Publications
       text: 
       filters:
         folders:
@@ -99,15 +112,7 @@ sections:
       columns: '2'
       view: compact
 
-  - block: markdown
-    id: host
-    content:
-      title: Host institution
-      text: SISSA is the best institute in Italy
-    design:
-      columns: '2'
-      view: showcase
-
+  
   
 
 
