@@ -11,7 +11,9 @@ sections:
       title: Generating Unstable Dynamics in dispersive Hamiltonian fluids
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      
   - block: team
+    id: team
     content:
       title: Team members
       # Date format for experience
@@ -72,7 +74,9 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
+
+  - block: publications
+    id: featured
     content:
       title: Recent Publications
       text: 
@@ -83,16 +87,27 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
+
+  - block: activities
+    id: activities
     content:
-      title: Recent & Upcoming Talks
+      title: Activities
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
+
+  - block: host
+    id: host
+    content:
+      title: Host institution
+      text: SISSA is the best institute in Italy
+    design:
+      columns: '2'
+      view: showcase
+
   - block: contact
     id: contact
     content:

@@ -20,7 +20,7 @@ main:
     url: '#featured'
     weight: 50
   - name: Activities
-    url: '#talks'
+    url: '#activities'
     weight: 60
   - name: Contact
     url: '#contact'
