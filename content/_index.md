@@ -25,15 +25,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: [Alberto Maspero]('https://people.sissa.it/~amaspero/')
-          company: PI
+        - title: Alberto Maspero
+          company: Principal Investigator
           company_url: 
           company_logo: 
           location: 
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA.  He is a mathematician who works on Partial Differential Equations (PDEs). 
+              [Alberto]('https://people.sissa.it/~amaspero/') is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA.  He is a mathematician who works on Partial Differential Equations (PDEs). 
         - title: Pinco Pallo
           company: Postdoc
           company_url: ''
