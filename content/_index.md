@@ -108,14 +108,7 @@ sections:
       columns: '2'
       view: showcase
 
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  
 
 
   - block: contact
@@ -160,13 +153,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '2'
 ---
