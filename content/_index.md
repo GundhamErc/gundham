@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: team
+  - block: experience
     id: team
     content:
       title: Team members
@@ -88,7 +88,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: activities
+  - block: collection
     id: activities
     content:
       title: Activities
@@ -99,7 +99,7 @@ sections:
       columns: '2'
       view: compact
 
-  - block: host
+  - block: markdown
     id: host
     content:
       title: Host institution
@@ -107,6 +107,17 @@ sections:
     design:
       columns: '2'
       view: showcase
+
+
+- block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
+
 
   - block: contact
     id: contact
