@@ -31,7 +31,11 @@ PI:
   
 
 
-
+# Interests to show in About widget
+interests:
+  - Transfers of energy
+  - Modulational instability
+  - Rogue waves formation
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
