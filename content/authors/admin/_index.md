@@ -4,8 +4,8 @@ title: GUnDHam
 
 
 # Full name (for SEO)
-first_name: Generating Unstable Dynamics
-last_name: in dispersive Hamiltonian fluids
+first_name: 
+last_name: 
 
 # Status emoji
 status:
@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-bla bla bla
+prova
 {style="text-align: justify;"}
