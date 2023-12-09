@@ -28,12 +28,12 @@ sections:
         - title: Alberto Maspero
           company: PI
           company_url: 'https://people.sissa.it/~amaspero/'
-          company_logo: '/workspaces/gundham/assets/media/icon.png'
+          company_logo: 
           location: 
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been Assistant Professor at SISSA, as well as R. H. Bing Instructor at the University of Texas at Austin. He is a mathematician who works on Partial Differential Equations (PDEs). 
+              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA.  He is a mathematician who works on Partial Differential Equations (PDEs). 
         - title: Pinco Pallo
           company: Postdoc
           company_url: ''
@@ -81,7 +81,9 @@ sections:
     id: host
     content:
       title: Host institution
-      text: SISSA is the best institute in Italy
+      text: ![image info](./workspaces/gundham/images/SISSA.jpeg)
+        [SISSA](https://www.sissa.it/) – Scuola Internazionale Superiore di Studi Avanzati – was founded in 1978 and is a scientific center of excellence within the national and international academic scene. Located in Italy, in the city of Trieste, it features about 70 professors, 130 researchers, 300 PhD students. The School is surrounded by a 25 acre park, and offers a stunning view of the Gulf of Trieste.
+        The quality level of the research is further confirmed by the fact that within the competitive field of European funding schemes SISSA holds the top position among Italian scientific institutes in terms of research grants obtained in relation to the number of researchers and professors. 
     design:
       columns: '2'
       view: showcase
@@ -168,3 +170,6 @@ sections:
     design:
       columns: '2'
 ---
+
+
+[def]: https://assets.digitalocean.com/articles/alligator/boo.svg
