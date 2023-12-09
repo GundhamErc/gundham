@@ -11,7 +11,7 @@ sections:
       title: Generating Unstable Dynamics in dispersive Hamiltonian fluids
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      
+
   - block: team
     id: team
     content:
@@ -42,7 +42,7 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: |2-
-          the first postdoc?
+              the first postdoc?
     design:
       columns: '2'
   
