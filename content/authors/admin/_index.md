@@ -56,7 +56,7 @@ social:
     link: https://github.com/GundhamErc
   - icon: youtube
     icon_pack: fab
-    link: @GUnDHam-bq4mx
+    link: https://www.youtube.com/channel/UCnBnec2axXz3XA79SjXiUnQ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
