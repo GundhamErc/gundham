@@ -1,7 +1,7 @@
 ---
 title: Energy cascades
-summary: One of the most important problem in physics, mathematical analysis and engineering is to study how energy is transferred and redistributed from macro to micro scales in a deterministic system. This question is central to understand the insurgence of turbulent dynamics. In fluids, it is characterized by a nonlinear transfer of energy from low to
-high Fourier modes, in a process called cascade, which is the result of non-linear resonant interactions between different wave components. The goal of this project is to study cascades formation in dispersive Hamiltonian fluids.
+summary: |2- 
+  One of the most important problem in physics, mathematical analysis and engineering is to study how energy is transferred and redistributed from macro to micro scales in a deterministic system. This question is central to understand the insurgence of turbulent dynamics. In fluids, it is characterized by a nonlinear transfer of energy from low to high Fourier modes, in a process called cascade, which is the result of non-linear resonant interactions between different wave components. The goal of this project is to study cascades formation in dispersive Hamiltonian fluids.
 tags:
   - Energy cascades
 date: '2016-04-27T00:00:00Z'
