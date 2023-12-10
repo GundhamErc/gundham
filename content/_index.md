@@ -47,7 +47,7 @@ sections:
 #    design:
 #      columns: '2'
   
-  - block: portfolio
+  - block: collection
     id: team
     content:
       title: Team members
@@ -77,6 +77,7 @@ sections:
     design:
       # Choose a listing view
       view: card
+      
 
 
   - block: portfolio
