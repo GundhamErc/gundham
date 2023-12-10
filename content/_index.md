@@ -12,42 +12,73 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: experience
-    id: team
-    content:
-      title: Team members
-      # Date format for experience
+#  - block: experience
+#    id: team
+#    content:
+#      title: Team members
+#      # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
+#      date_format: Jan 2006
+#      # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Alberto Maspero
-          company: Principal Investigator
-          company_url: 'https://people.sissa.it/~amaspero/'
-          company_logo: 
-          location: 
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
-              He is a mathematician who works on Partial Differential Equations (PDEs). 
-        - title: Pinco Pallo
-          company: Postdoc
-          company_url: ''
-          company_logo:
-          location: 
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: |2-
-              the first postdoc?
+#      items:
+#        - title: Alberto Maspero
+#          company: Principal Investigator
+#          company_url: 'https://people.sissa.it/~amaspero/'
+#          company_logo: 
+#          location: 
+#          date_start: '2021-01-01'
+#          date_end: ''
+#          description: |2-
+#              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
+#              He is a mathematician who works on Partial Differential Equations (PDEs). 
+#        - title: Pinco Pallo
+#          company: Postdoc
+#          company_url: ''
+#          company_logo:
+#          location: 
+#          date_start: '2016-01-01'
+#          date_end: '2020-12-31'
+#          description: |2-
+#              the first postdoc?
+#    design:
+#      columns: '2'
+  
+  - block: portfolio
+    id: team
+    content:
+      title: Team members
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - team
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      columns: '2'
-  
-  
+      # Choose a listing view
+      view: card
+
+
   - block: portfolio
     id: projects
     content:
