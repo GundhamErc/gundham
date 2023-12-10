@@ -1,9 +1,9 @@
 ---
-title: Rogue waves formation
+title: Zio Stray
 summary: |2-
-  Rogue waves are extreme phenomena in which waves of extreme height  appear suddenly in open waters. Once considered figments of imagination of sailors, they are today recognized as a serious threat to ships and sea structures. We plan to construct rogue wave solutions of the water wave equations, confirming (or disproving) two of the most renowned physical conjectures regarding their formation. This will be achieved combining deterministic normal forms and probabilistic methods, like large deviation principles applied to PDEs.
+  Zio Stray is one of the most important member
 tags:
-  - extreme
+  - stray
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

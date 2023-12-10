@@ -2,7 +2,8 @@
 title: Alberto Maspero
 subtitle: Principal investigator
 summary: |2- 
-  One of the most important problem in physics, mathematical analysis and engineering is to study how energy is transferred and redistributed from macro to micro scales in a deterministic system. This question is central to understand the insurgence of turbulent dynamics. In fluids, it is characterized by a nonlinear transfer of energy from low to high Fourier modes, in a process called cascade, which is the result of non-linear resonant interactions between different wave components. The goal of this project is to study cascades formation in dispersive Hamiltonian fluids.
+  Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
+  He is a mathematician who works on Partial Differential Equations (PDEs).
 tags:
   - alberto
 date: '2016-04-27T00:00:00Z'

@@ -1,9 +1,9 @@
 ---
-title: Modulational instability
+title: Pippo Carollo
 summary: |2-
-  Modulational instability is the ubiquitous phenomenon in physics of a traveling wave being unstable under small amplitude long-wave perturbations. The goal of this project is to prove linear and nonlinear modulational instability of space periodic traveling wave solutions in water waves and geophysical fluids, such as Stokes and Rossby waves.
+  the first postdoc of our team
 tags:
-  - modulational
+  - pippo
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
