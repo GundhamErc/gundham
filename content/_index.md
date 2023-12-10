@@ -30,7 +30,7 @@ sections:
           company_url: 'https://people.sissa.it/~amaspero/'
           company_logo: 
           location: 
-          date_start: '2021-01-01'
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
               Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
@@ -75,9 +75,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+#      flip_alt_rows: true
 
 
 
