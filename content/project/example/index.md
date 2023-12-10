@@ -9,8 +9,8 @@ date: '2016-04-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 'jupiter2.jpeg'
-  caption: Photo by rawpixel on Unsplash
+image: 
+  caption: 'Image credit: [**Unsplash**](jupiter2.jpeg)'
   focal_point: Smart
 
 #links:
