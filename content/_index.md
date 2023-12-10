@@ -28,7 +28,7 @@ sections:
         - title: Alberto Maspero
           company: Principal Investigator
           company_url: 'https://people.sissa.it/~amaspero/'
-          company_logo: 'https://people.sissa.it/~amaspero/_Media/me2_med_hr.jpeg'
+          company_logo: 
           location: 
           date_start: '2021-01-01'
           date_end: ''
