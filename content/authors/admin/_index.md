@@ -68,11 +68,13 @@ social:
 highlight_name: true
 ---
 
+</br>
+
 GUnDHam is funded by  the [ERC Consolidator grant call  2023](https://erc.europa.eu/sites/default/files/2023-11/erc-2023-cog-results-all-domains.pdf), receiving a budget of about 1.500.000 Euros.
 
-This project aims to prove rigorous results on the generation of unstable dynamics in the disper- sive Hamiltonian water waves and geophysical fluid equations: I refer to the outstanding open problems of the formation of energy cascades from low to high frequencies, orbital instabilities and extreme rare phenomena such as rogue waves. All these behaviors are well documented in experiments, real world data and numerical simulations, but still lack a rigorous mathematical proof. Accordingly the project has three lines of research:
+This project aims to prove rigorous results on the generation of unstable dynamics in the dispersive Hamiltonian water waves and geophysical fluid equations: for example formation of energy cascades from low to high frequencies, orbital instabilities and extreme rare phenomena such as rogue waves. All these behaviors are well documented in experiments, real world data and numerical simulations, but still lack a rigorous mathematical proof. Accordingly the project has three lines of research:
 
-1. *Energy cascades from low to high frequency modes*;
-2. *Modulational and orbital instabilities of traveling waves*;
-3. *Extreme phenomena formations*
+1. **Energy cascades from low to high frequency modes**
+2. **Modulational and orbital instabilities of traveling waves**
+3. **Extreme phenomena formations**
 {style="text-align: justify;"}

@@ -33,7 +33,8 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA.  He is a mathematician who works on Partial Differential Equations (PDEs). 
+              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
+              He is a mathematician who works on Partial Differential Equations (PDEs). 
         - title: Pinco Pallo
           company: Postdoc
           company_url: ''
@@ -83,6 +84,7 @@ sections:
       title: Host institution
       text: |2-
         [SISSA](https://www.sissa.it/) – Scuola Internazionale Superiore di Studi Avanzati – was founded in 1978 and is a scientific center of excellence within the national and international academic scene.
+        ![image info](./workspaces/gundham/images/SISSA.jpeg)
         Located in Italy, in the city of Trieste, it features about 70 professors, 130 researchers, 300 PhD students. The School is surrounded by a 25 acre park, and offers a stunning view of the Gulf of Trieste.
         The quality level of the research is further confirmed by the fact that within the competitive field of European funding schemes SISSA holds the top position among Italian scientific institutes in terms of research grants obtained in relation to the number of researchers and professors. 
     design:
