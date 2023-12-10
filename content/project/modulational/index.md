@@ -21,7 +21,7 @@ image:
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=u0psJp6I2Z0&ab_channel=Steve_At_Hypothermia'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

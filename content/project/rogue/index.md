@@ -21,7 +21,7 @@ image:
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/shorts/q5fVfySupj4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
