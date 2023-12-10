@@ -12,98 +12,98 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  # - block: experience
-  #   id: team
-  #   content:
-  #     title: Team members
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Alberto Maspero
-  #         company: Principal Investigator
-  #         company_url: 'https://people.sissa.it/~amaspero/'
-  #         company_logo: 
-  #         location: 
-  #         date_start: '2024-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
-  #             He is a mathematician who works on Partial Differential Equations (PDEs). 
-  #       - title: Pinco Pallo
-  #         company: Postdoc
-  #         company_url: ''
-  #         company_logo:
-  #         location: 
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: |2-
-  #             the first postdoc?
-  #   design:
-  #     columns: '2'
-  
-  
-  - block: portfolio
+  - block: experience
     id: team
     content:
       title: Team members
-      filters:
-        folders:
-          - team
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      #buttons:
-      #  - name: 
-      #    tag: 'Energy cascades'
-      #  - name: Deep Learning
-      #    tag: Deep Learning
-      #  - name: Other
-      #   tag: Demo
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Alberto Maspero
+          company: Principal Investigator
+          company_url: 'https://people.sissa.it/~amaspero/'
+          company_logo: 
+          location: 
+          date_start: '2024-01-01'
+          date_end: ''
+          description: |2-
+              Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
+              He is a mathematician who works on Partial Differential Equations (PDEs). 
+        - title: Pinco Pallo
+          company: Postdoc
+          company_url: ''
+          company_logo:
+          location: 
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: |2-
+              the first postdoc?
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: masonry
-      # For Showcase view, flip alternate rows?
+      columns: '2'
+  
+  
+  # - block: portfolio
+  #   id: team
+  #   content:
+  #     title: Team members
+  #     filters:
+  #       folders:
+  #         - team
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     #buttons:
+  #     #  - name: 
+  #     #    tag: 'Energy cascades'
+  #     #  - name: Deep Learning
+  #     #    tag: Deep Learning
+  #     #  - name: Other
+  #     #   tag: Demo
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: masonry
+  #     # For Showcase view, flip alternate rows?
         
 
 
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      #buttons:
-      #  - name: 
-      #    tag: 'Energy cascades'
-      #  - name: Deep Learning
-      #    tag: Deep Learning
-      #  - name: Other
-      #   tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     #buttons:
+  #     #  - name: 
+  #     #    tag: 'Energy cascades'
+  #     #  - name: Deep Learning
+  #     #    tag: Deep Learning
+  #     #  - name: Other
+  #     #   tag: Demo
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: true
 
 
 

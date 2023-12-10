@@ -16,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://scholar.google.it/citations?user=RKfiml4AAAAJ&hl=en
 url_code: ''
 url_pdf: ''
 url_slides: ''
