@@ -1,9 +1,8 @@
 ---
-title: Energy cascades
-summary: One of the most important problem in physics, mathematical analysis and engineering is to study how energy is transferred and redistributed from macro to micro scales in a deterministic system. This question is central to understand the insurgence of turbulent dynamics. In fluids, it is characterized by a nonlinear transfer of energy from low to
-high Fourier modes, in a process called cascade, which is the result of non-linear resonant interactions between different wave components. The goal of this project is to study cascades formation in dispersive Hamiltonian fluids.
+title: Rogue waves formation
+summary: Rogue waves are extreme phenomena in which waves of extreme height  appear suddenly in open waters. Once considered figments of imagination of sailors, they are today recognized as a serious threat to ships and sea structures. We plan to construct rogue wave solutions of the water wave equations, confirming (or disproving) two of the most renowned physical conjectures regarding their formation. This will be achieved combining deterministic normal forms and probabilistic methods, like large deviation principles applied to PDEs.
 tags:
-  - Energy cascades
+  - extreme
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -13,14 +12,14 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
 url_video: ''
 
 # Slides (optional).

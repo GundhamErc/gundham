@@ -62,19 +62,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      #buttons:
+      #  - name: 
+      #    tag: 'Energy cascades'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #   tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 
 
 
@@ -84,7 +84,7 @@ sections:
       title: Host institution
       text: |2-
         [SISSA](https://www.sissa.it/) – Scuola Internazionale Superiore di Studi Avanzati – was founded in 1978 and is a scientific center of excellence within the national and international academic scene.
-        ![image info](./workspaces/gundham/images/SISSA.jpeg)
+        ![image info](/workspaces/gundham/images/SISSA.jpeg)
         Located in Italy, in the city of Trieste, it features about 70 professors, 130 researchers, 300 PhD students. The School is surrounded by a 25 acre park, and offers a stunning view of the Gulf of Trieste.
         The quality level of the research is further confirmed by the fact that within the competitive field of European funding schemes SISSA holds the top position among Italian scientific institutes in terms of research grants obtained in relation to the number of researchers and professors. 
     design:
