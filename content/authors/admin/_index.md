@@ -32,10 +32,10 @@ PI:
 
 
 # Interests to show in About widget
-interests:
-  - Transfers of energy
-  - Modulational instability
-  - Rogue waves formation
+#interests:
+#  - Transfers of energy
+#  - Modulational instability
+#  - Rogue waves formation
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,32 +44,35 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: '#contact'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/GundhamErc
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: @GUnDHam-bq4mx
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-prova
+GUnDHam is funded by  the [ERC Consolidator grant call  2023](https://erc.europa.eu/sites/default/files/2023-11/erc-2023-cog-results-all-domains.pdf), receiving a budget of about 1.500.000 Euros.
+
+This project aims to prove rigorous results on the generation of unstable dynamics in the disper- sive Hamiltonian water waves and geophysical fluid equations: I refer to the outstanding open problems of the formation of energy cascades from low to high frequencies, orbital instabilities and extreme rare phenomena such as rogue waves. All these behaviors are well documented in experiments, real world data and numerical simulations, but still lack a rigorous mathematical proof. Accordingly the project has three lines of research:
+
+1. *Energy cascades from low to high frequency modes*;
+2. *Modulational and orbital instabilities of traveling waves*;
+3. *Extreme phenomena formations*
 {style="text-align: justify;"}
