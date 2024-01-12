@@ -2,8 +2,8 @@
 title: Alberto Maspero
 subtitle: Principal investigator
 summary: |2- 
-  Alberto is  associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
-  He is a mathematician who works on Partial Differential Equations (PDEs).
+  Alberto is the PI of the project. He is associate   Professor at SISSA since 2022. Previously, he has been assistant Professor at SISSA. He got a PhD in Mathematics  in 2014, in cotutelle between the University of Zurich and University of Milan.
+  He is a mathematician who works on Partial Differential Equations (PDEs) and infinite dimensional Hamiltonian systems.
 tags:
   - alberto
 date: '2016-04-27T00:00:00Z'
@@ -18,7 +18,7 @@ image:
 links:
   - icon: google-scholar
     icon_pack: ai
-    name: Follow
+    name: 
     url: https://scholar.google.it/citations?user=RKfiml4AAAAJ&hl=en
 url_code: ''
 url_pdf: ''
