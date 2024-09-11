@@ -23,7 +23,7 @@ abstract: We consider the problem of transfer of energy to high frequencies in a
 summary: We prove growth of Sobolev norms for a quasilinear NLS with fractional dispersion, introducing a novel paradigm to obtain energy cascades.
 
 tags:
-- energy cascade
+- Energy cascades
 featured: false
 
 links:
