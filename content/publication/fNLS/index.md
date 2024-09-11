@@ -17,10 +17,12 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: We consider the problem of transfer of energy to high frequencies in a quasilinear Schrödinger equation with sublinear dispersion, on the one dimensional torus. We exhibit initial data undergoing finite but arbitrary large Sobolev norm explosion: their initial norm is arbitrary small in Sobolev spaces of high regularity, but at a later time becomes arbitrary large. We develop a novel mechanism producing instability, which is based on extracting, via paradifferential normal forms, an effective equation driving the dynamics whose leading term is a non-trivial transport operator with non-constant coefficients. We prove that such operator is responsible for energy cascades via a positive commutator estimate inspired by Mourre's commutator theory. 
+abstract: >
+  We consider the problem of transfer of energy to high frequencies in a quasilinear Schrödinger equation with sublinear dispersion, on the one dimensional torus. We exhibit initial data undergoing finite but arbitrary large Sobolev norm explosion: their initial norm is arbitrary small in Sobolev spaces of high regularity, but at a later time becomes arbitrary large. We develop a novel mechanism producing instability, which is based on extracting, via paradifferential normal forms, an effective equation driving the dynamics whose leading term is a non-trivial transport operator with non-constant coefficients. We prove that such operator is responsible for energy cascades via a positive commutator estimate inspired by Mourre's commutator theory. 
 
 # Summary. An optional shortened abstract.
-summary: We prove growth of Sobolev norms for a quasilinear NLS with fractional dispersion, introducing a novel paradigm to obtain energy cascades.
+summary: >
+  We prove growth of Sobolev norms for a quasilinear NLS with fractional dispersion, introducing a novel paradigm to obtain energy cascades.
 
 tags:
 - Energy cascades
