@@ -1,7 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "One dimensional energy cascades for a fractional quasilinear NLS"
 authors: 
 - admin
+- F. Murgante
 date: "2/8/2024"
 doi: ""
 
