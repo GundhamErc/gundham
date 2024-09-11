@@ -123,7 +123,7 @@ sections:
 
 
   - block: collection
-    id: featured
+    id: publication
     content:
       title: Publications
       text: 
