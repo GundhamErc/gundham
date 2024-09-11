@@ -122,29 +122,29 @@ sections:
 
 
 
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Publications
-  #     text: 
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+   - block: collection
+     id: featured
+     content:
+       title: Publications
+       text: 
+       filters:
+         folders:
+           - publication
+         exclude_featured: true
+     design:
+       columns: '2'
+       view: citation
 
-  # - block: collection
-  #   id: activities
-  #   content:
-  #     title: Activities
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+   - block: collection
+     id: activities
+     content:
+       title: Activities
+       filters:
+         folders:
+           - event
+     design:
+       columns: '2'
+       view: compact
 
   
   

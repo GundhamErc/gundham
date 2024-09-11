@@ -32,7 +32,7 @@ featured: false
 links:
 - name: arXiv
   url: https://www.arxiv.org/abs/2408.01097
-url_pdf: 'https://www.arxiv.org/abs/2408.01097'
+url_pdf: https://www.arxiv.org/abs/2408.01097
 url_code: ''
 url_dataset: '#'
 url_poster: '#'
