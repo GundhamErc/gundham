@@ -1,6 +1,6 @@
 ---
-title: "One dimensional energy cascades for a fractional quasilinear NLS"
-authors: A. Maspero, F. Murgante
+title: "An example preprint / working paper"
+authors: 
 - admin
 date: "2/8/2024"
 doi: ""
