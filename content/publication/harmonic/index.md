@@ -1,14 +1,14 @@
 ---
-title: "Growth of Sobolev norms for completely resonant quantum harmonic oscillators on $mathbb{R}^2$"
+title: "Growth of Sobolev norms for completely resonant quantum harmonic oscillators on R^2"
 authors: 
 - B. Langella
 - A. Maspero
 - M.T. Rotolo
-date: "2/10/2024"
+date: "2024-10-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024"
+publishDate: "2024-10-08"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,11 +36,11 @@ links:
   url: https://arxiv.org/abs/2410.00850
 url_pdf: https://arxiv.org/abs/2410.00850
 url_code: ''
-url_dataset: '#'
+#url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: '#'
+#url_source: '#'
 url_video: '#'
 
 # Featured image

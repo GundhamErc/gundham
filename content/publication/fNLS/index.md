@@ -3,7 +3,7 @@ title: "One dimensional energy cascades for a fractional quasilinear NLS"
 authors: 
 - A. Maspero
 - F. Murgante
-date: "2/8/2024"
+date: "2024-08-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
