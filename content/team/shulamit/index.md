@@ -8,7 +8,7 @@ tags:
 date: '2024-10-13T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://people.sissa.it/~amaspero/'
+external_link: 'https://sites.google.com/view/shulamit-terracina/home-page'
 
 image: 
   caption: ''
@@ -18,7 +18,7 @@ links:
   - icon: archive
     icon_pack: ai
     name:
-    url: ""
+    url: https://sites.google.com/view/shulamit-terracina/home-page
   - icon: google-scholar
     icon_pack: ai
     name: 
