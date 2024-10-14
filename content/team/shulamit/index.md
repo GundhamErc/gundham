@@ -2,7 +2,7 @@
 title: Shulamit Terracina
 subtitle: Postdoc
 summary: |2- 
-  Shulamit is the first postdoc to join GUnDHam! She will very soon complete her PhD at University of Milan. Her expertise is in the construction of quasi-periodic solutions for quasi-linear PDEs from fluids via KAM methods. 
+  Shulamit is the first postdoc to join GUnDHam! She will very soon complete her PhD at University of Milan, Italy. Her expertise is  the construction of quasi-periodic solutions for quasi-linear PDEs arising from fluids via KAM methods. In GUnDHam, she will work on problems regarding energy cascades from low to high frequencies in  quasi-linear equations.
 tags:
   - shulamit
 date: '2024-10-13T00:00:00Z'
