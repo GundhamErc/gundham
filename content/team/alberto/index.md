@@ -6,7 +6,7 @@ summary: |2-
   He is a mathematician who works on Partial Differential Equations (PDEs) and infinite dimensional Hamiltonian systems.
 tags:
   - alberto
-date: '2016-04-27T00:00:00Z'
+date: '2024-10-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://people.sissa.it/~amaspero/'
@@ -16,6 +16,10 @@ image:
   focal_point: Smart
 
 links:
+  - icon: archive
+    icon_pack: ai
+    name: 
+    url: https://people.sissa.it/~amaspero/
   - icon: google-scholar
     icon_pack: ai
     name: 

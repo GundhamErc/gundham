@@ -5,7 +5,7 @@ summary: |2-
   Shulamit is the first postdoc to join GUnDHam! She will very soon complete her PhD at University of Milan. Her expertise is in the construction of quasi-periodic solutions for quasi-linear PDEs from fluids via KAM methods. 
 tags:
   - shulamit
-date: '2024-10-14T00:00:00Z'
+date: '2024-10-13T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://people.sissa.it/~amaspero/'
@@ -15,10 +15,18 @@ image:
   focal_point: Smart
 
 links:
+  - icon: archive
+    icon_pack: ai
+    name:
+    url: ""
   - icon: google-scholar
     icon_pack: ai
     name: 
     url: https://scholar.google.it/citations?hl=it&user=Q22ahJcAAAAJ
+  - icon: arxiv
+    icon_pack: ai
+    name: 
+    url: https://arxiv.org/a/terracina_s_1.html
 url_code: ''
 url_pdf: ''
 url_slides: ''
