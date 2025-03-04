@@ -150,16 +150,16 @@ sections:
   - block: markdown
     id: open
     content:
-      title: Open access
+      title: Open access policy
       text: |2-
         All papers published under ERC grants must comply with a specific open access policy. This is a quick recap of best practices for compliance, meant for project members:
         - Put all preprints on a public repository before submission ([arXiv](https://arxiv.org/), [HAL](https://hal.archives-ouvertes.fr/), [SISSA preprint server](https://preprints.sissa.it/)). Note that [CVGMT](https://cvgmt.sns.it/) does not qualify as an open access repository.
         - Before submission, check the policy of the journal. It must permit the publication of the **accepted** version of the paper on a public repository with an **embargo period not longer than 6 months**. Use the following tool: [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
         - After acceptance, update the preprint server with the accepted version as soon as the embargo period has elapsed. Provide the DOI link as soon as it is available.
         - An alternative to the previous two points applies to journals that have special agreements with the HI and allow for gold open access publication without fees. 
-        A list of such agreements is available here: [Read & Publish Transformative Agreements](https://library.sissa.it/readpublish-transformative-agreements). 
+        A list of such agreements is available here: [Read & Publish Transformative Agreements](https://library.sissa.it/readpublish-transformative-agreements).  
         Official guidelines can be found here: [ERC Open Access Guidelines](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm#repository).
-        See also the page [Open Science ERC](https://erc.europa.eu/manage-your-project/open-science).
+        See also the page [Open Science ERC](https://erc.europa.eu/manage-your-project/open-science). 
 
     design:
       columns: '2'
