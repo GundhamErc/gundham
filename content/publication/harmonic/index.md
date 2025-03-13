@@ -35,13 +35,13 @@ links:
 - name: JDE
   url: https://www.sciencedirect.com/science/article/pii/S0022039625002244?dgcid=author
 url_pdf: https://arxiv.org/abs/2410.00850
-url_code: ''
+#url_code: ''
 #url_dataset: '#'
-url_poster: '#'
+#url_poster: '#'
 url_project: ''
 url_slides: ''
 #url_source: '#'
-url_video: '#'
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
