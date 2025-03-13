@@ -16,7 +16,7 @@ publishDate: "2025-13-03"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of Differential Equations"
 publication_short: ""
 
 abstract: >
