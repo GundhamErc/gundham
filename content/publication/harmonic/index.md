@@ -17,7 +17,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "J.  Diff.  Eq., 433: 113221"
-publication_short: "JDE"
+publication_short: ""
 
 abstract: >
   We consider  time dependently perturbed  quantum harmonic oscillators in $\mathbb{R}^2$: 
