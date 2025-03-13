@@ -5,10 +5,10 @@ authors:
 - A. Maspero
 - M.T. Rotolo
 date: "2024-10-02T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jde.2025.113221"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-08"
+publishDate: "2025-13-03"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2410.00850
+- name: Journal of Differential equations
+  url: https://www.sciencedirect.com/science/article/pii/S0022039625002244?dgcid=author
 url_pdf: https://arxiv.org/abs/2410.00850
 url_code: ''
 #url_dataset: '#'
