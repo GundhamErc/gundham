@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: Journal of Differential equations
+- name: JDE
   url: https://www.sciencedirect.com/science/article/pii/S0022039625002244?dgcid=author
 url_pdf: https://arxiv.org/abs/2410.00850
 url_code: ''
