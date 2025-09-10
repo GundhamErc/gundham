@@ -1,12 +1,13 @@
 ---
-title: "Bifurcation of gravity-capillary Stokes waves with constant vorticity"
+title: " Longtime dynamics for the Landau Hamiltonian with a time dependent magnetic field "
 authors: 
-- T. Barbieri
-- M. Berti
+- D. Bambusi
+- B. Grebert
 - A. Maspero
-- M. Mazzuchelli
-date: "2025-01-24T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jde.2025.113753"
+- D. Robert
+- C. Villegas-Blas
+date: "2025-04-24T00:00:00Z"
+doi: "10.4171/EMSS/99"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025"
@@ -17,25 +18,25 @@ publishDate: "2025"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "EMS Surv. Math. Sci. 12 (2025), no. 1, pp.  155-184"
 publication_short: ""
 
 abstract: >
-  We consider the gravity-capillary water waves equations of a 2D fluid with constant vorticity. Using variational methods we prove the bifurcation of steady periodic traveling water waves for {\it all} the values of gravity, surface tension, constant vorticity, depth and wavelenght, extending previous results valid for restricted values of the parameters. We parametrize the bifurcating Stokes waves either with their speed or their momentum.
+  We prove stability and instabiliy of a Landau Hamiltonian with a time dpendent magnetic field.
 
 # Summary. An optional shortened abstract.
 summary: >
-  We construct Stokes waves for any values of the parameters, using variational methods.
+  We prove stability and instabiliy of a Landau Hamiltonian with a time dpendent magnetic field.
 
 tags:
 - Modulational instability
 featured: false
 
 links:
-- name: JDE
-  url: https://www.sciencedirect.com/science/article/pii/S0022039625007806?dgcid=author
-url_pdf: https://arxiv.org/abs/2501.14353
-url_code: 'https://github.com/GundhamErc/gundham'
+- name: EMS Surv. Math. Sci
+  url: 'https://ems.press/journals/emss/articles/14298723'
+url_pdf:  'https://arxiv.org/abs/2402.00428'
+
 
 
 # Featured image

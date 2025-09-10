@@ -5,7 +5,7 @@ authors:
 - A. Maspero
 - P. Ventura
 date: "2025-01-23T00:00:00Z"
-doi: ""
+doi: "10.4171/EMSS/91"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025"
@@ -16,7 +16,7 @@ publishDate: "2025"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "EMS Surv. Math. Sci. 12 (2025), no. 1, pp. 79–122"
 publication_short: ""
 
 abstract: >
